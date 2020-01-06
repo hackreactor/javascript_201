@@ -32,8 +32,7 @@ _For your ease of access – click the following links for each section's practi
 
 ## Exercise Solutions
 
-You may find reference solutions for this workshop's exercises on the `solutions` [branch](https://github.com/hackreactor/javascript_201/tree/solutions/)
-) of this repository. Please do not refer to the solutions until you've given each problem set a valiant effort.
+You may find reference solutions for this workshop's exercises on the `solutions` [branch](https://github.com/hackreactor/javascript_201/tree/solutions/) of this repository. Please do not refer to the solutions until you've given each problem set a valiant effort.
 
 ## Thinking about JavaScript
 
